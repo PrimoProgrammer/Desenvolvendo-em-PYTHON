@@ -5,6 +5,8 @@ Aqui vou listar uma série de Aulas e desafios adquirido ao longo do tempo estud
 
 Listagem das Aulas com mais de 100 exercícios é o objetivo desse repertório.
 
+Orientação a objetos, cálculos aritméticos, manipulação de textos...
+
 Com muita gratidão
 
 
